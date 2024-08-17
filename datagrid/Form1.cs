@@ -22,7 +22,7 @@ namespace datagrid
             //CargarDatos2();
             // soy un cambio 
         }
-        
+
         private void CargarDatos()
         {
             // Crear una lista de personas
